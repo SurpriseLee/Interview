@@ -1,4 +1,4 @@
-package per.lxs.interview.toutiao20180512;
+package pers.lxs.interview.toutiao20180512;
 
 import java.util.Scanner;
 
