@@ -2,7 +2,12 @@ package pers.lxs.interview.microsoft20180530;
 
 import org.junit.Test;
 
-public class CycleBuffer {
+/**
+ * Given a buffer, implement write data into buffer circularly
+ * @author SurpriseLee
+ *
+ */
+public class Main01 {
 
 	@Test
 	public void test() {
