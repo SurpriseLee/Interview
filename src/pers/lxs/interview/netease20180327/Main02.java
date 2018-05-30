@@ -1,4 +1,4 @@
-package pers.lxs.netease20180327;
+package pers.lxs.interview.netease20180327;
 
 import java.util.Scanner;
 
